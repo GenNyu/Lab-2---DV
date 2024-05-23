@@ -12,5 +12,7 @@
 | 21120299 | Phan Cao Nguyên |
 | 21120336 | Nguyễn Phương Thảo|
 | 21120351 | Nguyễn Thành Trung	|
+## Đề tài: ACEA Smart Water Analytics
+Phân tích và trực quan dữ liệu về vùng nước của ACEA
 ## Tập dữ liệu sử dụng
 https://www.kaggle.com/competitions/acea-water-prediction/data
