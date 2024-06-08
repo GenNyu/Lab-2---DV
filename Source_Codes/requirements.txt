@@ -1,0 +1,12 @@
+# Usage: pip install -r requirements.txt
+# please install these packages for constructing stable development environment.
+jupyterlab==3.6.3
+jupyter_contrib_nbextensions==0.5.1
+matplotlib==3.8.0
+numpy==1.26.0
+pandas==2.1.1
+seaborn==0.12.2
+wordcloud==1.9.3
+plotly
+statsmodels
+

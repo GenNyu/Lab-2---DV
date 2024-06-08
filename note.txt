@@ -1,9 +1,0 @@
-** Phân công:
-+ 2.0 EDA như lab 1 (1) - Thảo
-+ 2.2 EDA về TS (3) - Kiệt, Trung, TNguyên
-+ 3.0 Model (1) - CNguyên
-
-** Lưu ý:
-+ Làm plotly (Phải làm nếu được)
-+ DL: T4 05/06/2024
-+ Nộp: 08/06/2024
